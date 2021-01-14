@@ -2,7 +2,7 @@
     position: relative;
     width: 80%;
     height: 60px;
-    background: linear-gradient(to right, orange,rgb(185, 121, 0));
+    background: linear-gradient(to right, rgb(228, 129, 0),rgb(190, 109, 2));
     margin: 0 auto;
     text-align: center;
 }
