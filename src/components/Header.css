@@ -24,7 +24,7 @@
     border: 0;
     padding: 0;
     border-radius: 3px;
-    background-color: orange;
+    background-color: white;
     position: relative;
     margin-left: 5px;
     display: inline-block;
@@ -87,4 +87,13 @@
 
 .input::placeholder{
     color: white;
+}
+
+.bottom_container{
+    position: relative;
+    width: 80%;
+    height: 100vh;
+    background: white;
+    margin: 0 auto;
+    text-align: center;
 }
